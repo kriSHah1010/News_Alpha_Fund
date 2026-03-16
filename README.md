@@ -3,7 +3,6 @@
 ![Transformers](https://img.shields.io/badge/HuggingFace-FinBERT-yellow)
 
 
-
 # 🧠 News Alpha Fund  
 ### Sentiment-Driven Market Prediction Using FinBERT & Time-Series Machine Learning
 
