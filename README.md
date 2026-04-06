@@ -5,7 +5,7 @@
 
 # 🧠 News Alpha Fund  
 ### Sentiment-Driven Market Prediction Using FinBERT & Time-Series Machine Learning
-
+ 
 ---
 
 ## 📌 Project Overview
