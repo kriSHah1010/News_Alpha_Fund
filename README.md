@@ -9,7 +9,7 @@
 ---
 
 ## 📌 Project Overview
-
+   
 This project investigates whether financial news sentiment contains predictive information for DJIA market movements.
 
 Using FinBERT-based NLP sentiment extraction combined with time-series machine learning, the study evaluates:
