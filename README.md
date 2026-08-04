@@ -7,7 +7,7 @@
 ### Sentiment-Driven Market Prediction Using FinBERT & Time-Series Machine Learning  
      
 ---
-   
+    
 ## 📌 Project Overview
     
 This project investigates whether financial news sentiment contains predictive information for DJIA market movements.
