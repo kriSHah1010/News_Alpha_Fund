@@ -8,7 +8,7 @@
      
 ---  
           
-## 📌 Project Overview
+## 📌 Project Overview 
     
 This project investigates whether financial news sentiment contains predictive information for DJIA market movements.
 
