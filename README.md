@@ -14,7 +14,7 @@ This project investigates whether financial news sentiment contains predictive i
 
 Using FinBERT-based NLP sentiment extraction combined with time-series machine learning, the study evaluates:
 
-- Directional predictive power of news sentiment  
+- Directional predictive power of news sentiment   
 - Economic significance via backtesting  
 - Regime-dependent behavior under high vs low volatility  
 - Risk-adjusted performance metrics  
