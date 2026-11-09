@@ -13,7 +13,7 @@
 This project investigates whether financial news sentiment contains predictive information for DJIA market movements.
 
 Using FinBERT-based NLP sentiment extraction combined with time-series machine learning, the study evaluates:
-
+  
 - Directional predictive power of news sentiment   
 - Economic significance via backtesting  
 - Regime-dependent behavior under high vs low volatility  
